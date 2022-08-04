@@ -5,3 +5,7 @@ method ()
 [
 
 ]
+
+
+echo " Google analytics "
+echo " Yndex Metrika "
