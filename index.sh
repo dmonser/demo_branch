@@ -5,3 +5,6 @@ method ()
 [
 
 ]
+
+
+echo " Google analytics "
